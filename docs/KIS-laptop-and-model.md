@@ -2,6 +2,8 @@
 
 Research date: 2026-08-14
 
+KIS-laptop analysis is finished. The next session is on a desktop — see the **Continue here** section in [README.md](../README.md).
+
 This session is hardware research, not an app build. The question is whether [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) can run locally on the machine in front of us, and what that would actually feel like.
 
 ## Laptop inventory
