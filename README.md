@@ -1,12 +1,12 @@
 # Local Model Research
 
-Research on whether [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) can run on a current Dell Inspiron 16 7610, and what used hardware in Orange County / Los Angeles / San Diego is a reasonable next step.
+Research on whether [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) can run on **KIS-laptop** (Dell Inspiron 16 7610), and what used hardware in Orange County / Los Angeles / San Diego is a reasonable next step.
 
 **Date:** 2026-08-14
 
 | Document | Contents |
 |---|---|
-| [docs/laptop-and-model.md](docs/laptop-and-model.md) | Laptop inventory, model memory math, and a run/no-run verdict |
+| [docs/KIS-laptop-and-model.md](docs/KIS-laptop-and-model.md) | KIS-laptop inventory, model memory math, and a run/no-run verdict |
 | [docs/craigslist-socal.md](docs/craigslist-socal.md) | Craigslist scan of OC, LA, and San Diego listings for a better box |
 
 ## Short answer

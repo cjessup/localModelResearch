@@ -1,4 +1,4 @@
-# Qwen3.8-27B on this laptop
+# Qwen3.8-27B on KIS-laptop
 
 Research date: 2026-08-14
 
